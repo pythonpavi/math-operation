@@ -1,0 +1,7 @@
+import math
+# for math operation
+number = int(input("enter the number: "))
+print(math.log(number))
+print(math.cos(number))
+print(math.e**number)
+             
